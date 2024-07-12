@@ -5,6 +5,10 @@
 
 • sudo apt-get install mediainfo
 
+• sudo apt-get install pkg-config
+
+• sudo apt-get install libavdevice-dev libavfilter-dev libavformat-dev libavcodec-dev libavutil-dev libswscale-dev
+
 • pip3 install pytgcalls==3.0.0.dev22
 
 • git clone repo
