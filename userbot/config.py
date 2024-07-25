@@ -1,6 +1,6 @@
 import os
 
-CIAA= [
+CIAA = [
     6458340595
 ]
 
