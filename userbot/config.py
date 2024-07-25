@@ -1,6 +1,6 @@
 import os
 
-DEVS = [
+CIAA= [
     6458340595
 ]
 
