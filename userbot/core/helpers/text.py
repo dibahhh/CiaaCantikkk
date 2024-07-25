@@ -26,7 +26,7 @@ class MSG:
         return f"""
 <b> ❏ 𝙷𝚊𝚕𝚕𝚘 <a href=tg://user?id={message.from_user.id}>{message.from_user.first_name} {message.from_user.last_name or ''}</a>
    
- 💬 @Dev_GhostBo ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅᴀᴘᴀᴛ ᴍᴇᴍʙᴜᴀᴛ ᴜ𝚜ᴇʀʙᴏᴛ ᴅᴇɴɢᴀɴ ᴍᴜᴅᴀʜ  
+ 💬 @CiaaCantikkkkkk ᴀᴅᴀʟᴀʜ ʙᴏᴛ ʏᴀɴɢ ᴅᴀᴘᴀᴛ ᴍᴇᴍʙᴜᴀᴛ ᴜ𝚜ᴇʀʙᴏᴛ ᴅᴇɴɢᴀɴ ᴍᴜᴅᴀʜ  
  ⚠️ 𝙽𝚘𝚝𝚎 : 𝚍𝚎𝚗𝚐𝚊𝚗 𝚜𝚢𝚊𝚛𝚊𝚝 𝚔𝚊𝚖𝚞 𝚜𝚞𝚍𝚊𝚑 𝚖𝚎𝚕𝚊𝚔𝚞𝚔𝚊𝚗 𝚙𝚎𝚖𝚋𝚊𝚢𝚊𝚛𝚊𝚗 𝚊𝚐𝚊𝚛 𝚋𝚒𝚜𝚊 𝚖𝚎𝚗𝚐𝚐𝚞𝚗𝚊𝚔𝚊𝚗 𝚞𝚜𝚎𝚛𝚋𝚘𝚝 𝚒𝚗𝚒.  
 """
 
@@ -38,7 +38,7 @@ class MSG:
 
 💳 ᴍᴇᴛᴏᴅᴇ ᴘᴇᴍʙᴀʏᴀʀᴀɴ:
  ├──• ʜᴜʙᴜɴɢɪ:
- ├─• @AnakManis5
+ ├─• @CiaaCantikkkkkk
 
 🔖 ᴛᴏᴛᴀʟ ʜᴀʀɢᴀ:  Rp {total}.000
 🗓️ ᴛᴏᴛᴀʟ ʙᴜʟᴀɴ: {bulan}
